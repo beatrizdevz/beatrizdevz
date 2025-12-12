@@ -27,6 +27,6 @@ Olá! Meu nome é Beatriz, e atuo na área de desenvolvimento de sistemas há 4 
 ##
 <p align="center">
 <a href="https://github.com/beatrizdyer">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=beatrizdyer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=beatrizdevz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
